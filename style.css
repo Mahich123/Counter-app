@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-image: linear-gradient(to top right, rgb(101, 115, 255), rgb(111, 114, 247), rgb(120, 114, 239), rgb(130, 113, 231), rgb(139, 112, 223), rgb(149, 111, 215), rgb(158, 111, 208), rgb(168, 110, 200), rgb(177, 109, 192), rgb(187, 108, 184), rgb(196, 108, 176), rgb(206, 107, 168));
+    width: 100vw;
+    height: 100vh;
+}
+h1 {
+    font-family: 'Redressed', cursive;
+    text-align: center;
+    color: #fff;
+    padding-top: 6rem;
+}
+#count-el {
+    font-family: 'Redressed', cursive;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 1em;
+}
+/* .btn1 {
+    margin-left: 42%;
+    margin-top: 10%;
+} */
+button {
+    border: none;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 36px;
+    border-radius: 6px;
+}
+
+#increment-btn {
+    background-color: #FFEDDA;
+    margin-left: 36rem;
+    margin-top: 10rem;
+}
+#decrement-btn {
+    background-color: #FDD2BF;
+}
