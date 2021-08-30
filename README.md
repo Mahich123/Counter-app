@@ -1,3 +1,3 @@
 # Counter-app
-LIVE PREVIEW
-<a href="https://mahich123.github.io/Counter-app/"></a>
+
+<a href="https://mahich123.github.io/Counter-app/">LIVE PREVIEW</a>
